@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Assessment2\Assessment2\bin\Debug\Assessment2.exe.config
+C:\Users\HP\source\repos\Assessment2\Assessment2\bin\Debug\Assessment2.exe
+C:\Users\HP\source\repos\Assessment2\Assessment2\bin\Debug\Assessment2.pdb
+C:\Users\HP\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.Form1.resources
+C:\Users\HP\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.Properties.Resources.resources
+C:\Users\HP\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.exe
+C:\Users\HP\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.pdb
